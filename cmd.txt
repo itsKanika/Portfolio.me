@@ -1,0 +1,5 @@
+npm i react-router-dom 
+react-parallax-tilt from npm js website used for tilting
+npm i react-icons icons
+npm i react-typing-effect 
+npm i react-toastify like loading sent succ
