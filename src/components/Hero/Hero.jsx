@@ -11,7 +11,7 @@ const Hero = () => {
         playsInline
      className="
   w-[1400px] sm:w-[1200px] md:w-[1500px]
-  opacity-70
+  opacity-50
 
   -translate-y-[335px] sm:-translate-y-[320px] md:-translate-y-[334px]
 "
