@@ -3,6 +3,7 @@
 Welcome to my personal portfolio website — **kanikagupta.me** 🚀
 
 This portfolio showcases my work, skills, projects, and journey as a developer. It is designed to highlight my experience in building modern, responsive, and user-friendly web applications.
+
 <img width="1420" height="811" alt="Screenshot 2026-06-17 at 12 18 38 AM" src="https://github.com/user-attachments/assets/30273d81-d8de-4099-badd-19629b755429" />
 
 <img width="1419" height="814" alt="Screenshot 2026-06-17 at 12 19 11 AM" src="https://github.com/user-attachments/assets/ef6a88bd-3bef-47c7-9e36-020e4a90ff37" />
