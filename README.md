@@ -51,4 +51,3 @@ Feel free to connect with me for projects, opportunities, or collaborations.
 
 **Kanika Gupta**
 Developer | Full Stack Enthusiast
-<img width="1408" height="793" alt="Screenshot 2026-06-17 at 12 18 16 AM" src="https://github.com/user-attachments/assets/b1ee0ebc-7bef-4ed4-ab19-80c1c9b53097" />
